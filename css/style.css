@@ -1,0 +1,10 @@
+.box{
+	min-height: 100px;
+	background-color: red;
+	margin-bottom: 10px;
+}
+.box_c{
+	min-height: 400px;
+	background-color: green;
+	margin-bottom: 10px;
+}
